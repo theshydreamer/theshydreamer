@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Software Development**
 
-- 👨‍💻 All of my projects are available at [jhtsd.vercel.app](jhtsd.vercel.app)
+- 👨‍💻 All of my projects are available at [jhwebdev.vercel.app](jhwebdev.vercel.app)
 
 - 💬 Ask me about **JavaScript and React**
 
